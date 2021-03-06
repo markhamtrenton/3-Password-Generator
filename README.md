@@ -10,7 +10,6 @@
 
 
 
-<<<<<<< HEAD
 GitHub deploy link: 
 GitHub repo link: https://github.com/markhamtrenton/3-Password-Generator
 =======

@@ -10,8 +10,18 @@
 
 
 
+<<<<<<< HEAD
 GitHub deploy link: 
 GitHub repo link: https://github.com/markhamtrenton/3-Password-Generator
+=======
+
+        
+
+Screen Shots Below
+![passwordgenerator1 jpg](https://user-images.githubusercontent.com/77074964/110220555-5b7b5100-7e94-11eb-9848-77e4ccf64030.png)
+![passordgenerator2 jpg](https://user-images.githubusercontent.com/77074964/110220561-60d89b80-7e94-11eb-8423-ab9ac81b42aa.png)
+![passwordgenerator3 jpg](https://user-images.githubusercontent.com/77074964/110220562-633af580-7e94-11eb-8bc4-4d37da248397.png)
+>>>>>>> e43c368b9e06a8a397dffba8491e468d65498683
 # 03 JavaScript: Password Generator
 
 ## Your Task

@@ -1,4 +1,5 @@
 
+In this weeks HW we had to creat a password genrator that was able to generate a password with certain criterias such as legth and types of charaters.
 
 
 
@@ -9,10 +10,8 @@
 
 
 
-
-GitHub deploy link: 
-GitHub repo link: https://github.com/markhamtrenton/3-Password-Generator
-=======
+Github deploy link: https://markhamtrenton.github.io/3-Password-Generator/index.html
+Github repo link: https://github.com/markhamtrenton/3-Password-Generator
 
         
 

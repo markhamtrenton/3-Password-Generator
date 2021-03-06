@@ -1,5 +1,5 @@
 
-In this weeks HW we had to creat a password genrator that was able to generate a password with certain criterias such as legth and types of charaters.
+In this weeks HW we had to creat a password generator using javascript that was able to generate a password with certain criterias such as legth and types of charaters.
 
 
 
